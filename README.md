@@ -29,7 +29,7 @@ NatureNani merges thousands of years of Ayurvedic wisdom with cutting-edge Gener
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/baggan1/naturenani.git
+   git clone your-fork-url
    ```
 2. Install dependencies:
    ```bash
